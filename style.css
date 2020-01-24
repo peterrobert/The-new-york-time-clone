@@ -22,6 +22,15 @@ nav li img {
   float: right;
 }
 
-/* .center {
-  margin: 0 auto;
-} */
+.navigation{
+    height: 42px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    vertical-align: middle;
+    z-index: 2;
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+}
