@@ -1,0 +1,9 @@
+ul{
+    list-style: none;
+   display: inline-block;
+}
+
+nav li{
+    height: 27px;
+    width: 200px;
+}
