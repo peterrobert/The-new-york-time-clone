@@ -1,9 +1,27 @@
-ul{
-    list-style: none;
-   display: inline-block;
+ul li {
+  list-style: none;
+  display: inline-block;
 }
 
-nav li{
-    height: 27px;
-    width: 200px;
+nav li {
+  height: 27px;
+  /* width: 200px; */
 }
+
+nav li img {
+  height: 26;
+  width: 200px;
+  text-align: center;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+/* .center {
+  margin: 0 auto;
+} */
