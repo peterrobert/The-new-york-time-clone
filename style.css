@@ -8,10 +8,20 @@ nav li {
   /* width: 200px; */
 }
 
+/* 
+ {
+  padding: 8px 9px 9px;
+} */
+
 nav li img {
   height: 26;
   width: 200px;
   text-align: center;
+}
+
+.main-img img {
+  height: 1200;
+  width: 675;
 }
 
 .pull-left {
@@ -22,15 +32,15 @@ nav li img {
   float: right;
 }
 
-.navigation{
-    height: 42px;
-    text-align: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    vertical-align: middle;
-    z-index: 2;
-    background-color: white;
-    border-bottom: 1px solid lightgray;
+.navigation {
+  height: 42px;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  vertical-align: middle;
+  z-index: 2;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
 }
