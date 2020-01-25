@@ -154,11 +154,17 @@ figcaption > span {
   font-size: 13px;
   margin: 0 16px 0 0;
 }
+
 .social-media-icons button {
   width: 330px;
   height: 36px;
 }
 
+.comment-text {
+  position: relative;
+  right: 2.1em;
+  bottom: 0.5em;
+}
 .content {
   max-width: 600px;
   /* margin: 0 auto; */
