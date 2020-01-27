@@ -12,7 +12,7 @@ figcaption {
   color: #121212;
 }
 
-figcaption > span {
+figcaption>span {
   font-size: 12px;
   color: #888;
 }
@@ -74,6 +74,7 @@ figcaption > span {
   height: 26;
   width: 195px;
 }
+
 .navigation button {
   padding: 0 10px;
   margin-right: 15px;
@@ -114,7 +115,7 @@ figcaption > span {
   margin-top: 3em;
 }
 
-.main-content > div {
+.main-content>div {
   margin: 0 auto;
 }
 
@@ -124,7 +125,7 @@ figcaption > span {
   font-weight: bold;
 }
 
-.author > h2 {
+.author>h2 {
   font-size: 15px;
   color: #333;
   margin: 0 0 15px 0;
@@ -165,6 +166,7 @@ figcaption > span {
   right: 2.1em;
   bottom: 0.5em;
 }
+
 .content {
   max-width: 600px;
   /* margin: 0 auto; */
@@ -183,13 +185,13 @@ figcaption > span {
   margin-bottom: 20px;
 }
 
-.remaining-articles > p {
+.remaining-articles>p {
   margin: 0;
   font-size: 14px;
   font-weight: bolder;
 }
 
-.remaining-articles > p:nth-of-type(2) {
+.remaining-articles>p:nth-of-type(2) {
   color: #326891;
 }
 
@@ -198,12 +200,12 @@ figcaption > span {
   padding: 20px 0 0 0;
 }
 
-.The-Theory-of-Inflation > h2 {
+.The-Theory-of-Inflation>h2 {
   font-size: 20px;
   margin: 0;
 }
 
-.The-Theory-of-Inflation > p {
+.The-Theory-of-Inflation>p {
   font-size: 14px;
   color: #666;
   margin: 0;
@@ -216,7 +218,7 @@ figcaption > span {
   font-size: 13px;
   position: absolute;
   float: left;
-  margin-top: -440px;
+  margin-top: -456px;
 }
 
 .inflation-inner-bottom {
@@ -225,7 +227,7 @@ figcaption > span {
   font-size: 13px;
   position: absolute;
   float: left;
-  margin-top: -156px;
+  margin-top: -184px;
 }
 
 .inflation-inner-top:nth-of-type(3) {
@@ -256,7 +258,7 @@ figcaption > span {
   font-size: 14px;
 }
 
-.inflation-end > hr {
+.inflation-end>hr {
   max-width: 60px;
   margin: 8px 826px 0 0;
 }
@@ -270,13 +272,13 @@ figcaption > span {
   width: 100%;
 }
 
-.content-video > p {
+.content-video>p {
   margin: 0;
   font-size: 14px;
   color: #666;
 }
 
-.content-video > p > span {
+.content-video>p>span {
   color: #888;
   margin: 0 7px 0 0;
   font-size: 13px;
@@ -286,45 +288,85 @@ figcaption > span {
   max-width: 730px;
 }
 
-.content-img > img {
+.content-img>img {
   height: 482px;
   width: 100%;
 }
 
-.content-img > p > span {
+.content-img>p>span {
   color: #888;
   margin: 0 7px 0 0;
   font-size: 13px;
 }
 
-.content-img > p {
+.content-img>p {
   font-size: 14px;
   margin: 0;
   color: #666;
 }
 
-.content-img > p > span {
+.content-img>p>span {
   font-size: 14px;
   color: #666;
 }
 
 /* More-in-Space-and-Astronomy  */
-.More-in-Space-and-Astronomy-section{
+.More-in-Space-and-Astronomy-section {
   margin-top: 80px;
-  max-width: 950px;
-  }
+  max-width: 1315.19px;
 
-.More-in-Space-and-Astronomy {
+}
+
+.More-in-Space-and-Astronomy .nyt-che {
   width: 100%;
   margin: 0 auto;
 }
 
+.More-in-Space-and-Astronomy h2 {
+  font-size: 16px;
+}
+
+.More-in-Space-and-Astronomy h3 {
+  font-size: 16px;
+  width: 262px;
+  margin: 0;
+  color: #121212;
+}
+
 .img-thumbnails {
-  width: 80%;
+  max-width: 853px;
+  width: 853px;
+  margin: 0;
   float: left;
 }
 
-.more-populor{
-  width: 20%;
+.img-thumbnails hr {
+  background-color: #000;
+  height: 1px;
+}
+
+.img-thumbnails img {
+  display: inline-block;
+  height: 181px;
+  width: 272px;
+}
+
+.img-thumbnails ul {
+  list-style: none;
+  padding: 0;
+}
+
+.img-thumbnails li {
+  display: inline-block;
+}
+
+.Most-Popular {
+  /* max-width: 318px; */
+  width: 390px;
   float: right;
+}
+
+.Most-Popular hr {
+  background-color: #000;
+  height: 1px;
 }
