@@ -428,6 +428,8 @@ footer {
 
 .Page-footer ul {
   list-style: none;
+  padding-inline-start: 0px;
+  display: grid;
 }
 
 .Page-footer li {
@@ -449,10 +451,6 @@ footer {
   border-left: 1px solid #999;
   padding-right: 0;
   padding-left: 10px;
-}
-
-.Page-footer ul {
-  padding-inline-start: 0px;
 }
 
 .Page-footer h2 {
