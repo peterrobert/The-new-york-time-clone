@@ -216,7 +216,7 @@ figcaption > span {
   font-size: 13px;
   position: absolute;
   float: left;
-  top: 272em;
+  margin-top: -420px;
 }
 
 .inflation-inner-bottom {
