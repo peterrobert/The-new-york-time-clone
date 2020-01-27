@@ -16,7 +16,7 @@ figcaption {
   color: #121212;
 }
 
-figcaption>span {
+figcaption > span {
   font-size: 12px;
   color: #888;
 }
@@ -125,7 +125,7 @@ time {
   margin-top: 3em;
 }
 
-.main-content>div {
+.main-content > div {
   margin: 0 auto;
 }
 
@@ -135,7 +135,7 @@ time {
   font-weight: bold;
 }
 
-.author>h2 {
+.author > h2 {
   font-size: 15px;
   color: #333;
   margin: 0 0 15px 0;
@@ -195,13 +195,13 @@ time {
   margin-bottom: 20px;
 }
 
-.remaining-articles>p {
+.remaining-articles > p {
   margin: 0;
   font-size: 14px;
   font-weight: bolder;
 }
 
-.remaining-articles>p:nth-of-type(2) {
+.remaining-articles > p:nth-of-type(2) {
   color: #326891;
 }
 
@@ -210,12 +210,12 @@ time {
   padding: 20px 0 0 0;
 }
 
-.The-Theory-of-Inflation>h2 {
+.The-Theory-of-Inflation > h2 {
   font-size: 20px;
   margin: 0;
 }
 
-.The-Theory-of-Inflation>p {
+.The-Theory-of-Inflation > p {
   font-size: 14px;
   color: #666;
   margin: 0;
@@ -268,7 +268,7 @@ time {
   font-size: 14px;
 }
 
-.inflation-end>hr {
+.inflation-end > hr {
   max-width: 60px;
   margin: 8px 826px 0 0;
 }
@@ -282,13 +282,13 @@ time {
   width: 100%;
 }
 
-.content-video>p {
+.content-video > p {
   margin: 0;
   font-size: 14px;
   color: #666;
 }
 
-.content-video>p>span {
+.content-video > p > span {
   color: #888;
   margin: 0 7px 0 0;
   font-size: 13px;
@@ -298,24 +298,24 @@ time {
   max-width: 730px;
 }
 
-.content-img>img {
+.content-img > img {
   height: 482px;
   width: 100%;
 }
 
-.content-img>p>span {
+.content-img > p > span {
   color: #888;
   margin: 0 7px 0 0;
   font-size: 13px;
 }
 
-.content-img>p {
+.content-img > p {
   font-size: 14px;
   margin: 0;
   color: #666;
 }
 
-.content-img>p>span {
+.content-img > p > span {
   font-size: 14px;
   color: #666;
 }
@@ -324,7 +324,6 @@ time {
 .More-in-Space-and-Astronomy-section {
   margin-top: 80px;
   max-width: 1315.19px;
-
 }
 
 .More-in-Space-and-Astronomy .nyt-che {
@@ -374,7 +373,6 @@ time {
   padding: 0;
 }
 
-
 .img-thumbnails li {
   display: inline-grid;
 }
@@ -388,4 +386,24 @@ time {
 .Most-Popular hr {
   background-color: #000;
   height: 1px;
+}
+
+.Most-Popular ul {
+  list-style: none;
+}
+
+.Most-Popular li {
+  margin-left: -38px;
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 19px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  border-top: 1px solid rgb(226, 226, 226);
+  
+}
+
+.Page-footer{
+    margin-top: 80px;
+    max-width: 1315.19px;
 }
