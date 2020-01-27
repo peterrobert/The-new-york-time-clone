@@ -432,6 +432,8 @@ footer {
 
 .Page-footer li {
   display: inline;
+  font-size: 14px;
+  line-height: 30px;
 }
 
 .page-footer-content {
@@ -440,13 +442,19 @@ footer {
 
 .page-footer-content section {
   display: table-cell;
-  padding-right: 147px;
+  padding-right: 120px;
 }
-
-
 
 .page-footer-content section:nth-last-child(1) {
   border-left: 1px solid #999;
   padding-right: 0;
   padding-left: 10px;
+}
+
+.Page-footer ul {
+  padding-inline-start: 0px;
+}
+
+.Page-footer h2 {
+  font-size: 13px;
 }
