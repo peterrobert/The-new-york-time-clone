@@ -216,7 +216,7 @@ figcaption > span {
   font-size: 13px;
   position: absolute;
   float: left;
-  top: 286em;
+  top: 272em;
 }
 
 .inflation-inner-bottom {
@@ -225,7 +225,7 @@ figcaption > span {
   font-size: 13px;
   position: absolute;
   float: left;
-  top: 308em;
+  top: 294em;
 }
 
 .inflation-inner-top:nth-of-type(3) {
@@ -306,4 +306,25 @@ figcaption > span {
 .content-img > p > span {
   font-size: 14px;
   color: #666;
+}
+
+/* More-in-Space-and-Astronomy  */
+.More-in-Space-and-Astronomy-section{
+  margin-top: 80px;
+  max-width: 950px;
+  }
+
+.More-in-Space-and-Astronomy {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.img-thumbnails {
+  width: 80%;
+  float: left;
+}
+
+.more-populor{
+  width: 20%;
+  float: right;
 }
