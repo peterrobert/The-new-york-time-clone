@@ -132,7 +132,6 @@ aside {
 
 .img-title {
   max-width: 600px;
-  /* text-align: center; */
 }
 
 .img-title h2 {
@@ -182,7 +181,6 @@ aside {
 }
 
 .social-media-icons {
-  /* margin: 0 auto; */
   max-width: 600px;
   padding-bottom: 25px;
 }
@@ -213,7 +211,6 @@ aside {
 
 .content {
   max-width: 600px;
-  /* margin: 0 auto; */
   font-size: 20px;
   line-height: 1.875rem;
 }
@@ -625,6 +622,6 @@ article h3 {
   display: none;
 }
 
-.Page-footer h3{
+.Page-footer h3 {
   display: none;
 }
